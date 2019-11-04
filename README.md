@@ -1,6 +1,5 @@
-# unight_ui
-
-A new Flutter project.
+# Result
+<img src="assets/event_switcher.gif" width="540" />
 
 ## Getting Started
 
